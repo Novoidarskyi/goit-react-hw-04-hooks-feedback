@@ -1,0 +1,11 @@
+.container {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.title {
+  font-size: 36px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  text-decoration: underline;
+}
